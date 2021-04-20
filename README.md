@@ -1,6 +1,6 @@
-# 💎Fetch Rewards Take Home Test -Mobile-Engineer - Intern
 
-  a native Android app in Java that retrieves data from https://fetch-hiring.s3.amazonaws.com/hiring.json
+
+  a native Android app in Java that retrieves data from API
 
 # 📌Requirements
 
@@ -15,9 +15,9 @@
 3. CardViews with list_item CardView
 4. and gradient background so the result should be displayed to the user in an easy-to-read list.
 
-# 🥰My Experience with the Take Home Test
+# 🥰My Experience with this project
 
-Before this exam, I only know how to Fetch data from API without requirements. but after this it was a different experience I have to do it with requirements, I expanded my knowledge in a Small amount of time. I can't wait to work with you guys and learn from you and bring my value to the company.
+Before this exam, I only know how to Fetch data from API without requirements. but after this it was a different experience I have to do it with requirements, I expanded my knowledge in a Small amount of time.
 
 # 📷Screenshots
 
