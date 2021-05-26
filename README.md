@@ -17,7 +17,7 @@
 
 # 🥰My Experience with this project
 
-Before this exam, I only know how to Fetch data from API without requirements. but after this it was a different experience I have to do it with requirements, I expanded my knowledge in a Small amount of time.
+Before this, I only know how to Fetch data from API without requirements. but after this it was a different experience I have to do it with requirements, I expanded my knowledge in a Small amount of time.
 
 # 📷Screenshots
 
